@@ -10,8 +10,7 @@ This project is a clone of the popular e-commerce website Amazon.com, created so
 + Basic Styling: Applies basic styles to mimic the appearance of the Amazon website.
 
 ## 🚀Usage
-To view the project, visit https://ishitadutta1306.github.io/Amazon-Clone/
-or simply open the index.html file in a web browser.  
+To view the project, visit [Amazon](https://ishitadutta1306.github.io/Amazon-Clone/) or simply open the index.html file in a web browser.  
 
 ## 🙏Credits
-This project was created by Ishita Dutta. Feel free to contribute by submitting pull requests or reporting issues. 
+This project was created by [Ishita Dutta](https://github.com/ishitadutta1306). Feel free to contribute by submitting pull requests or reporting issues. 
